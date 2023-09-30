@@ -14,3 +14,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+![pulse](https://github.com/MohammedMoataz/PulseApp/assets/81831838/f3cd4081-673f-4f0b-bbee-40b97b89ef5b)
